@@ -4,3 +4,13 @@ numpy==2.0.2
 pandas==2.2.3
 joblib==1.4.2
 altair==5.5.0
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+altair
+matplotlib
+textblob
+wordcloud
