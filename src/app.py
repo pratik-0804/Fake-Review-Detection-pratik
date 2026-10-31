@@ -10,11 +10,10 @@ from sklearn.exceptions import ConvergenceWarning
 
 warnings.filterwarnings("ignore", category=ConvergenceWarning)
 
+
 # ==========================================================
-#  EDIT THESE LINES - your details shown in the app
-# ==========================================================
-AUTHOR_NAME = "Pratik Jena"          # <-- put your name here
-AUTHOR_DETAILS = "BTech Final Year Project"   # e.g. "BTech CSE, XYZ College"
+AUTHOR_NAME = "Pratik Jena"          
+AUTHOR_DETAILS = "BTech Final Year Project"   
 # ==========================================================
 
 st.set_page_config(
